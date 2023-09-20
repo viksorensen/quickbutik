@@ -35,7 +35,17 @@ Det är din första dag på Quickbutik och du har just blivit ägare av detta re
     - Summa
     - Knapp (**din egna knapp-komponent**) för att gå till ordern (_När man trycker på knappen ska en alert med ordernummer visas_)
 - Svara på följande frågor:
-  - Vad hade du gjort (extra?, annorlunda?) om du hade fått mycket mer tid?
+
+  #### Vad hade du gjort (extra?, annorlunda?) om du hade fått mycket mer tid?
+
+  - Fixat typings
+  - Tester
+  - Gjort en "riktig" komponent som visar all information man kan behöva veta när man klickar på knappen istället för att visa en `alert()`
+  - Utökat tabellen med mer information.
+  - Funktionalitet för att kunna sortera/filtrera
+  - Skeleton loader för när tabellen laddar
+  - Error handling ifall något skulle gå fel med fetchen av orders
+  - Använt något date library för att formatera datum
 
 ## När du är klar
 
